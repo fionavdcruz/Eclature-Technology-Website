@@ -1,0 +1,54 @@
+.covered{
+    height: 100% !important;
+    min-height: 662px;
+    background-image: url(../imgs/cover-background.jpeg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+}
+
+figure{
+     padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+figure > img{
+    border: 2px solid #D3D3D3;
+}
+
+figure figcaption{
+    text-align: center;
+}
+
+figcaption{
+    
+    padding-top: 20px;
+    color: #000;
+    font-size: 25px;
+}
+
+figure p {
+    text-align: center;
+    font-weight: 300;
+}
+
+.parallax-effect{
+    height: 100% !important;
+    min-height: 662px;
+    background-image: url(../imgs/amsterdam.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+}
+
+.greyfooter{
+    background-color: #F19F4D;
+    color: #d9d9d9;
+    height: 50px;
+}
+
+.greyfooter p{
+    padding-top: 10px;
+}
