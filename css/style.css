@@ -44,11 +44,36 @@ figure p {
 }
 
 .greyfooter{
-    background-color: #F19F4D;
-    color: #d9d9d9;
+    background-color: #77A5DB;
+    color: #000;
     height: 50px;
+    margin-top: 20px;
 }
 
 .greyfooter p{
     padding-top: 10px;
 }
+hr{
+    width: 71px;
+    height: 2px;
+    background: #77A5DB;
+    position: relative;
+    border-top: 1px solid #77A5DB;
+}
+
+.button-style{
+    background: #FBE473;
+    color: 020202;
+    font-weight: bolder;
+}
+
+
+.header-top{
+    background-color: #77A5DB;
+    border:0px;
+    font-weight: bolder;
+}
+
+.header-top>li>a:hover{
+
+
